@@ -1,0 +1,16 @@
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\Projekt1.exe
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\Projekt1.deps.json
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\Projekt1.runtimeconfig.json
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\Projekt1.runtimeconfig.dev.json
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\Projekt1.dll
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\ref\Projekt1.dll
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\Projekt1.pdb
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Backend Uppgift 2.csproj.AssemblyReference.cache
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Backend Uppgift 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Backend Uppgift 2.AssemblyInfoInputs.cache
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Backend Uppgift 2.AssemblyInfo.cs
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Backend Uppgift 2.csproj.CoreCompileInputs.cache
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.dll
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\ref\Projekt1.dll
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.pdb
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Backend Uppgift 2.genruntimeconfig.cache
