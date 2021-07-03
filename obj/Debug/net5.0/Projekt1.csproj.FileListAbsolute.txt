@@ -13,7 +13,6 @@ C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.dll
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\ref\Projekt1.dll
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.pdb
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.genruntimeconfig.cache
-C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.csproj.AssemblyReference.cache
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\System.Data.SqlClient.dll
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
@@ -21,3 +20,4 @@ C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\runtimes\win-x
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.csproj.CopyComplete
+C:\Users\Tekoppar\source\repos\Backend Uppgift 2\obj\Debug\net5.0\Projekt1.csproj.AssemblyReference.cache
